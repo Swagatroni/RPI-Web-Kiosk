@@ -13,4 +13,7 @@ sudo apt-get install xdotool unclutter sed
 
 sudo raspi-config
 
+
 nano /home/pi/kiosk.sh
+
+sudo nano /lib/systemd/system/kiosk.service
